@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+# Crawling allowed so robots can read the noindex meta tag. No sitemap is provided.
