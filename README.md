@@ -40,3 +40,6 @@ Manrope sans-serif typography approximates the Built2Fit reference; the referenc
 
 Review source: https://www.yellowpages.ca/bus/British-Columbia/Port-Moody/1st-Impressions-Home-Services/100181208.html
 Reference: https://dribbble.com/shots/26621227-Website-Design-for-Built2Fit-Sydney-Building-Company
+
+## Revision 5: footer and review research
+Footer navigation and click-to-call/email links added. Phone 604-992-3783 and Gmail address verified against the company's live contact page. Google Maps access was blocked by Google's unusual-traffic screen during this research. Secondary directories show differing review counts, and IndustryOversight presents unattributed sentiment snippets rather than author/date-bearing original reviews. No additional Google review or aggregate score was published because individual attribution could not be verified. Existing two sourced Yellow Pages excerpts remain. A direct Google profile link or user-provided screenshots/exports of named reviews can support a later verified addition.
