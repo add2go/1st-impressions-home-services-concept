@@ -34,3 +34,9 @@ Check desktop/mobile layout, image rendering, anchor links, service switching in
 - Visual reference: https://dribbble.com/shots/27814101-Cortiva-Law-Firm-Landing-Page-Design
 - Sanity: https://www.sanity.io/docs
 - GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+
+## Revision 3
+Manrope sans-serif typography approximates the Built2Fit reference; the reference's exact typeface has not been identified. Font files load from Google's font CDN. Owners photo is now rectangular and uncropped. Two historical Yellow Pages review excerpts form a manually controlled carousel with swipe and keyboard support; no autoplay or invented reviews/ratings. Outdoor Journal presents three real existing company articles and links to their original pages. Titles and summaries were edited for presentation, and the third article image is illustrative. No Sanity integration was activated.
+
+Review source: https://www.yellowpages.ca/bus/British-Columbia/Port-Moody/1st-Impressions-Home-Services/100181208.html
+Reference: https://dribbble.com/shots/26621227-Website-Design-for-Built2Fit-Sydney-Building-Company
